@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:height="80dp"
+    android:width="80dp"
+    android:viewportHeight="128"
+    android:viewportWidth="128">
+
+    <group android:name="firstCircle"
+        android:pivotX="64"
+        android:pivotY="64">
+        <path android:fillColor="#00000000"
+            android:pathData="M64,26 a1,1 0 0,0 0,76.5"
+            android:strokeColor="#000000"
+            android:strokeWidth="1"/>
+
+        <path android:fillColor="#00000000"
+            android:pathData="M64,26 a1,1 0 1,1 0,76.5"
+            android:strokeColor="#000000"
+            android:strokeWidth="1"/>
+    </group>
+
+    <group android:name="secondCircle"
+        android:pivotX="67"
+        android:pivotY="66">
+        <path android:fillColor="#00000000"
+            android:pathData="M67,27.5 a1,1 0 0,0 0,76.5"
+            android:strokeColor="#000000"
+            android:strokeWidth="1"/>
+
+        <path android:fillColor="#00000000"
+            android:pathData="M67,27.5 a1,1 0 1,1 0,76.5"
+            android:strokeColor="#000000"
+            android:strokeWidth="1"/>
+    </group>
+
+    <group android:name="thirdCircle"
+        android:pivotX="60"
+        android:pivotY="66">
+        <path android:fillColor="#00000000"
+            android:pathData="M60,28 a1,1 0 0,0 0,76.5"
+            android:strokeColor="#000000"
+            android:strokeWidth="1"/>
+
+        <path android:fillColor="#00000000"
+            android:pathData="M60,28 a1,1 0 1,1 0,76.5"
+            android:strokeColor="#000000"
+            android:strokeWidth="1"/>
+    </group>
+
+    <group android:name="fourthCircle"
+        android:pivotX="66"
+        android:pivotY="71">
+        <path android:fillColor="#00000000"
+            android:pathData="M66,32.5 a1,1 0 0,0 0,76.5"
+            android:strokeColor="#000000"
+            android:strokeWidth="1"/>
+
+        <path android:fillColor="#00000000"
+            android:pathData="M66,32.5 a1,1 0 1,1 0,76.5"
+            android:strokeColor="#000000"
+            android:strokeWidth="1"/>
+    </group>
+
+    <group android:name="fifthCircle"
+        android:pivotX="61"
+        android:pivotY="71">
+        <path android:fillColor="#00000000"
+            android:pathData="M61,32.5 a1,1 0 0,0 0,76.5"
+            android:strokeColor="#000000"
+            android:strokeWidth="1"/>
+
+        <path android:fillColor="#00000000"
+            android:pathData="M61,32.5 a1,1 0 1,1 0,76.5"
+            android:strokeColor="#000000"
+            android:strokeWidth="1"/>
+    </group>
+</vector>

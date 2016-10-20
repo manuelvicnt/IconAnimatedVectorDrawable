@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:drawable="@drawable/ed_logo">
+
+    <target
+        android:name="firstCircle"
+        android:animation="@anim/rotation"/>
+    <target
+        android:name="secondCircle"
+        android:animation="@anim/rotation"/>
+    <target
+        android:name="thirdCircle"
+        android:animation="@anim/rotation"/>
+    <target
+        android:name="fourthCircle"
+        android:animation="@anim/rotation"/>
+    <target
+        android:name="fifthCircle"
+        android:animation="@anim/rotation"/>
+
+</animated-vector>
